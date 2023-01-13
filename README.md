@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phcmiguez
+- 👀 I’m interested in JavaScript!
+- 🌱 I’m currently learning JavaScript, Sass, Node.js (Express), React.js, MongoDB and React Native.
+- 💞️ I’m looking to collaborate on Developing softwares to help Polices Departments.
+- 📫 How to reach me: pedrohcmiguez@gmail.com
